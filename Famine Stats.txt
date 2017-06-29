@@ -1,0 +1,12 @@
+Will			 Wisdom
+	 <<Disciple>>
+	      ^
+	 Understanding
+	      |
+	  <Commoner>	
+	      |
+ 	    Mastery
+	      V
+	<<Apprentice>>
+
+Strength		Intellect
