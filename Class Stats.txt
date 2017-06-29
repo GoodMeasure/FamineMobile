@@ -1,0 +1,109 @@
+Abbreviation	Class	Phase	Path		Stats	
+	Commoner	0			none	
+D	Disciple	1	U		none	
+A	Apprentice	1	M		none	
+MA	Magician	2	U > MG	W	
+SU	Supplicant	2	U > EH	F	
+NA	Naturalist	2	U > NT	V	
+CA	Cadet		2	M > TR	S	
+AR	Artisan		2	M > CR	I	
+VA	Vagrant		2	M > CU	C	
+ELM	Elementalist	3	U > MG > ELM	W F	S
+ENC	Enchanter	3	U > MG > ENC	W V	
+WIZ	Wizard		3	U > MG > WIZ	W I	
+PSI	Psionic		3	U > MG > PSI	W C	
+CHA	Chaneller	3	U > EH > CLV	F W	I
+MON	Monk		3	U > EH > ZEN	F S	
+NEO	Neophyte	3	U > EH > HLY	F V	
+ACO	Acolyte		3	U > EH > UNH	F C	
+DRD	Druid		3	U > NA > DRD	V S	C
+CMP	Companion	3	U > NA > CMP	V F	
+BOT	Botanist	3	U > NA > BOT	V I	
+SHM	Shaman		3	U > NA > SHM	V W	
+BRT	Brute		3	M > TR > BRN	S V	W
+INI	Initiate	3	M >TR > EXP	S I	
+WAR	Warrior		3	M > TR > MGT	S F	
+SCT	Scout		3	M > TR > AGI	S C	
+INV	Inventor	3	M > CR > INV	I C	F
+SMT	Smith		3	M > CR > ARM	I S	
+APO	Apothecary	3	M > CR > ALC	I W	
+PHY	Physician	3	M > CR > ANA	I V	
+RNG	Ranger		3	M > CU > PRC	C F	V
+SHD	Shadow		3	M > CU > STL	C I	
+TRC	Trickster	3	M > CU > DCT	C W	
+ASN	Assassin	3	M > CU > DDL	C S	
+					
+Abbreviation	Class	Phase	Path	Stats	
+SMNR	Summoner	4	U > MG > ELM + CLV	W F I	
+GEOM	Geomancer	4	U > MG > ELM + SHM	W F V	
+BTMG	Battle Mage	4	U > MG > ELM + MGT	W F S	I
+TRSM	Transmuter	4	U > MG > ELM + ALC	W F I 	
+AEBW	Aether Bow	4	U > MG > ELM + PRC	W F C	
+					
+IMBU	Imbuer		4	U > MG > ENC + ZEN	W V F	
+RNMG	Rune Mage	4	U > MG > ENC + BOT	W V I	
+RNFT	Rune Fist	4	U > MG > ENC + BRN	W V S	I
+ARTF	Artificer	4	U > MG > ENC + INV	W V I C	
+SPBL	Spellblade	4	U > MG > ENC + STL	W V C	
+					
+ASCN	Ascendant	4	U > MG > WIZ + HLY	W I F V	
+ANMS	Animus		4	U > MG > WIZ + DRD	W I V S	
+CHRO	Chronomancer	4	U > MG > WIZ + AGI	W I S C	
+BLDS	Bladesoul	4	U > MG > WIZ + ARM	W I S	
+FOMG	Force Mage	4	U > MG > WIZ + DDL	W I C S	
+					
+DEVL	Devil		4	U > MG > PSI + UNH	W C F	
+BEMR	Beastmaster	4	U > MG > PSI + CMP	W C V F	
+BLWS	Bladewise	4	U > MG > PSI + EXP	W C S I	
+PPTR	Puppeteer	4	U > MG > PSI + ANA	W C I V	
+TRKS	Trickster	4	U > MG > PSI + DCT	W C 	
+					
+Abbreviation	Class	Phase	Path	Stats	
+SMNR	Summoner	4		F I W	
+DVHS	Divine Host	4		F I V S	
+PHSR	Phaser		4		F I S C	
+SOOT	Soothsayer	4		F I V	
+TRMR	Tormentor	4		F I S W	
+					
+IMBU	Imbuer		4		F W I	
+IMBB	Imbiber		4		F W 	
+SAMU	Samurai		4		F W 	
+GNUS	Genius		4		F W 	
+DTHN	Death Hand	4		F W 	
+					
+ASCN	Ascendant	4		W I F V	
+MTMN	Meteomancer	4			
+PRIH	Pariah	4			
+TMPL	Templar	4			
+TRSH	Trueshot	4			
+					
+DEVL	Devil		4		W C F	
+HRLD	Herald		4			
+HLSP	Hellspawn	4			
+NCRM	Necromancer	4			
+WRTH	Wraith		4			
+					
+Abbreviation	Class	Phase	Path	Stats	
+		4			
+		4			
+		4			
+		4			
+		4			
+					
+		4			
+		4			
+		4			
+		4			
+		4			
+					
+		4			
+		4			
+		4			
+		4			
+		4			
+					
+		4			
+		4			
+		4			
+		4			
+		4			
