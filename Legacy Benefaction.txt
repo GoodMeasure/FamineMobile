@@ -1,0 +1,15 @@
+this is the collective set of proficiencies and world 
+knowledge that is passed down through all reincarnations.
+
+Proficencies have diminishing returns and no cap, 
+they may include:
+ - Permanent Stat and weapon type boosts 
+ - Bonus starting skill in various professions
+ - Bonus starting Renown equal half of their ancestor's
+   Renown rounded up.
+
+World Knowledge permanently gained may include:
+ - Knowledge of the class tree and talent trees
+ - plant, animal, race, city, and class lore
+ - Ability to select starting city in phase 0
+ - Ability to select missions in certain zones
