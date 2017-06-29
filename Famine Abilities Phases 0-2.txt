@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------------------------- PHASE 0 ABILITIES
+Commoner
+1 - Melee Attack
+---------------------------------------------------------------------------------------------- PHASE 1 ABILITIES
+Disciple				Apprentice
+1 - Soulbolt - Damage/Ranged		1 - Overhead Swing - Damage/Execute
+2 - Phase-Step - Mobility/Buff		2 - Intimidate - Debuff
+3 - Shadows - AoE/CC/Melee		3 - Tumble - Mobiblity/Dodge
+4 - Blessing - Defensive/Heal/Self	4 - Rend - Damage/DoT/CC
+5 - Primal Surge - Cast Speed CD	5 - Fire Vial - DoT/AoE/Debuff/Ranged
+6 - Knowledge - Gathering/Perception	6 - Skill - First Aid/Adventuring
+---------------------------------------------------------------------------------------------- PHASE 2 ABILITIES	
+Magician				Supplicant			Naturalist
+1 - Firebolt - Damage/Ranged		1 - Soul Pillar - AoE/DoT/HoT	1 - Slash - Damage/DoT
+2 - Frost Shards - Conal/Ranged/CC	2 - Benediction - Def/Heal	2 - Wild Charge - Mobi/Damage
+3 - Phase-Jump - Mobility/Buff		3 - Darkness - AoE/CC/Melee	3 - Primal Rush - Mobi/Atk Spd/CD
+4 - Rune - Modal/Ranged-AoE/Regen	4 - Malidiction - DoT/Debuff	4 - Remedy - Heal/Cleanse
+5 - Quicken - No cast time next spell	5 - Judgement - Damage/Range/CC	5 - Earth Shackles - Ranged/CC
+6 - Mind-Shock - Interupt/Melee/Damage  6 - Calm - Cleanse/Buff 	6 - Quake - Interupt/Dbf/Slow/Dmg/AoE
+7 - Familiar - P/A/Damage/Utility	7 - Spirit - P/A/DoT/Buff/Heal	7 - Companion - P/A/Damage/Buff
+
+Cadet					Expert				Vagrant
+1 - Destructive Strike - Damage/Debuff	1 - Bash - Damage/Interupt	1 - Swift Strike - Damage/Unblockable
+2 - Disarm - Debuff/Interupt		2 - Throw - Damage/Ranged/CD	2 - Shoot - Damage/Ranged
+3 - Combat Roll - Mobility/Dodge	3 - Gadget - Modal/Shield/Mobi	3 - Quick Roll - Mobility/Cleanse
+4 - Sever - Damage/DoT/Slow		4 - Bola Toss - CC/Debuff	4 - Gash - DoT/CC
+5 - Resolve - Cleanse/Def/CD		5 - Improvise -  Weapon Buff	5 - Backstab - Damage/Interupt
+6 - Cleave - AoE/Damage/Execute		6 - Acid Vial - DoT/AoE/Dbf/Dmg 6 - Coup de Gras - Execute
+7 - Weapon Specialization - bonus dmg	7 - Profession - Al/Sm/An/Eg	7 - Stealth Mechanics

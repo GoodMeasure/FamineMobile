@@ -1,22 +1,4 @@
----------------------------------------------------------------------------------------------- PHASE 2 ABILITIES	
-Magician	-	Magical		Supplicant	-     Ethereal	Naturalist	-	Natural
-1 - Firebolt - Damage/Cast/Ranged	1 - Soul Pillar - AoE/DoT/HoT	1 - Swipe - Damage/DoT
-2 - Frost Shards - Conal/Ranged/CC	2 - Benediction - Def/Heal	2 - Primitive Charge - Mobi/Damage
-3 - Phase-Jump - Mobility/Buff		3 - Darkness - AoE/CC/Melee	3 - Primal Rush - Mobi/Atk Spd/CD
-4 - Rune - Modal/Ranged-AoE/Regen	4 - Vexing Mark - DoT/Debuff	4 - Remedy - Heal/Cleanse
-5 - Quicken - No cast time next spell	5 - Judgement - Damage/Range/CC	5 - Earth Fetters - Ranged/CC
-6 - Mind-Shock - Interupt/Melee/Damage  6 - Calm - Cleanse/Buff 	6 - Tremors - Interupt/Dbf/Slow/Dmg
-* - Familiar - P/A/Damage/Utility	* - Spirit - P/A/DoT/Buff/Heal	* - Companion - Pet/Damage/Buff
-
-Cadet		-	Training	Artisan		-     Crafting	Vagrant		-	Cunning
-1 - Destructive Strike - Damage/Debuff	1 - Bash - Damage/Interupt	1 - Swift Strike - Damage/Unblockable
-2 - Disarm - Debuff/Interupt		2 - Throw - Damage/Ranged/CD	2 - Shoot - Damage/Ranged
-3 - Combat Roll - Mobility/Dodge	3 - Gadget - Modal/Shield/Mobi	3 - Quick Roll - Mobility/Cleanse
-4 - Sever - Damage/DoT/Slow		4 - Bola Toss - CC/Debuff	4 - Gash - DoT/CC
-5 - Resolve - Cleanse/Def/CD		5 - Improvise -  Weapon Buff	5 - Backstab - Damage/Interupt
-6 - Cleave - AoE/Damage/Execute		6 - Acid Vial - DoT/AoE/Dbf/Dmg 6 - Coup de Gras - Execute
-* - Weapon Specialization - bonus dmg	* - Profession - Al/Sm/An/Eg	* - Stealth Mechanics
----------------------------------------------------------------------------------------------- PHASE 3 ABILITIES
+------------------------------------------------------------------UNDERSTANDING PHASE 3 ABILITIES--------------------------------------------------------------------
 Elementalist	-	Elements	Enchanter	-	Enchanting	Wizard		-	Wizarding		Psionic		-	Psionic
 1 - Fireball - Damage/Ranged/DoT	1 - Flourish - Damage/Melee		1 - Accelerated Swing - Damage/Interupt		1 - Mind Shock - CC/Ranged/Damage
 2 - Flurry - Conal/Ranged/CC		2 - Spell-Touch - Modal/On-Hit		2 - Spell Spear - Cast/Damage/Ranged		2 - Voices - Modal/DoT/HoT/Ranged
@@ -43,3 +25,4 @@ Druid		-	Druidics	Companion	-	Fauna		Botanist	-	Flora			Shaman		-	Shamanics
 5 - Flurry - Channel/Dmg		5 - High Tail - Mobi/Dodge/Pet		5 - Thorn Shackles - Damage/CC/Ranged		5 - Gust - Mobility/Damage/Push
 6 - Dire Beast Transform - Buff/Dmg	6 - Tandem Strikes - buff/Pet sync	6 - Plantform - Mobility/Cast Speed/Buff	6 - Upheavel - AoE/Debuff/CC
 * - Shapeshifting - Animal Forms	* - Species Affinity - Pet buff		* - Species Affinity - Consumable Buff		* - Elemental Phases - Ability Buffs
+------------------------------------------------------------------MASTERY PHASE 3 ABILITIES----------------------------------------------------------------------------

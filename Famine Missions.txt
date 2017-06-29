@@ -1,0 +1,35 @@
+		//ORIGIN CITIES//    (From East to West)				//PHASE 2 CITIES//
+								
+	CL	Earth Location		Affinity	Missions	Reward		Earth Location
+								
+							Champion	Melee Wep		
+	1	Nigeria      (M)	Training	Revolution	Gold		Caribbean
+							Pirates		Rum		
+								
+							Miracle		Godly Water		
+Mastery	2	Egypt	     (F)	Ethereal	Crusade		Gold		Europe
+							Vessel		World Map		
+								
+								
+							Loot		Gold		
+	3	Saudi Swamps (M)	Cunning		Bullseye	Rng Wep		Middle East
+							Cold-Blooded	Lockpick		
+								
+								
+1st city is randomly selected, between								
+6 of varying sizes in southern Arristria.								
+								
+								
+							Extraplanar	Fading Rune		
+	4	North India	F	Magical		Havoc		Gold		Eurasia
+							Within		Meditation		
+Understanding								
+								
+							Pillage		Rng Wep		
+	5	Indonesia	M	Crafting	Improvise	Rare Metal	Phillipines
+							Gatherer	Gold		
+								
+								
+							Big Game 	Melee Wep		
+	6	Australia	F	Natural		Garden		Gold		Japan
+							Blessings	Familiar		
