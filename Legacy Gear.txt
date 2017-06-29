@@ -1,0 +1,21 @@
+Legacy Gear is what will live on in a recently dead character's
+inventory that will be obtainable by future reincarnations.
+
+Characteristics of items deemed "Legacy Gear" include:
+ - Weapons and Armor of Rare grade or higher
+ - Keys, Documents, Maps, Scrolls, and Adventuring Gear
+ - Rare crafting materials and class loot
+ - Percentages of each currency. 
+
+Legacy Gear will last between 1 and 4 generations*, 
+factors that affect this duration include:
+ - Population of town of death
+ - Previous character phase, renown, and wealth
+
+Pets and Familiars are also obtainable to new reincarnations,
+and will last half the number of generations that the ancestor's
+Legacy Gear did, rounded up. Their Loyalty will be reset.
+
+ * All characters have the opportunity to pay for the
+guaranteed delivery of all above items to next of kin in select
+cities before death, at a rather steep, and rising price.

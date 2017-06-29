@@ -1,0 +1,30 @@
+Up to 3 Damage, 2 Defensive, Modal, CC, Buff, Mobility, or Passive-Active
+and 1 ultimate ability.
+
+Disciple
+1 - Soulbolt - Damage/Ranged
+2 - Phase-Step - Mobility/Buff
+3 - Shadows - AoE/CC/Melee
+4 - Blessing - Defensive/Heal/Self
+5 - Rumble - Debuff/CC
+6 - Familiar - Passive/Active/Damage
+
+Apprentice
+1 - Overhead Swing - Damage/Debuff
+2 - Fortitude - Cleanse/Mobility
+3 - Bola Toss - CC/Ranged
+4 - Fire Vial - Damage/Debuff/Ranged
+5 - Tumble - Mobiblity/Dodge
+6 - Rend - Damage/DoT/CC
+
+-------------------------------------
+
+Magician				Supplicant				Naturalist
+1 - Firebolt - Damage/Ranged		1 - Guardian - P/A/Buff/DoT		1 - 
+2 - Phase-Jump - Mobility/Buff		2 - Calm - Cleanse/Buff			2 - 
+3 - Frost Shards - Damage/Ranged/CC	3 - Darkness - AoE/CC/Melee		3 - 
+4 - Rune - Modal/Melee/Regen/Buff/CD	4 - Benediction - Defensive/Heal	4 - 
+5 - Quicken - Buff			5 - Decree - Damage/Range/CC		5 - Quake - Debuff/CC/Damage
+6 - Mind-Shcok - CC/Melee/Damage	6 - Malidiction - DoT/Debuff		6 - Partner - P/A/Damage/Buff
+7 - Arcane Wave - AoE/Damage		7 - Soul Pillar - AoE/DoT/HoT		7 - 
+
