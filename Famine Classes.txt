@@ -32,7 +32,7 @@ Might	     MGT	Alchemy      ALC	Deceit       DCT
 Agility	     AGI	Anatomy      ANA        Deadliness   DDL
 
 =========			=========			=========
-Magical				Ethereal			Natural
+Magical				Ethe	real			Natural
 =========			=========			=========
 
 Elements/ELM + :		Clairvoynce/CLV + :		Druidics/DRD + :

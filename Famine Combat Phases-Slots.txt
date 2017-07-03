@@ -1,0 +1,34 @@
+A turn in Famine consists of choosing specific actions for each of a number of phases
+Once the player has chosen an action for each phase, their turn will be carried out.
+
+Actions fall into 3 categories:
+-Basic Attacks - Red
+-Spells/Technique - Blue
+-Movement - Yellow
+
+A phase slot may only allow actions that fall into one, two, or all three of these categories.
+Items may be used in any phase.
+
+the valid actions that can fill each slot will be denoted by the slot's color, or colors. For example:
+-Basic Attacks or Spells - Violet
+-Basic Attacks or Movement - Orange
+-Spells or Movement - Green
+-Any action - White
+-No actions - Black
+
+The player begins with only one action, or phase slot, to fill per turn.
+This action can be any of the character's abilities.
+
+Character's will gain additional actions per turn beginning in Phase 2, and then at each new phase.
+Phase 0 - 1 slot(s)
+Phase 1 - 1 slot(s)
+Phase 2 - 2 slot(s)
+Phase 3 - 3 slot(s)
+Phase 4 - 4 slot(s)
+
+A typical phase three character will have the phase line O-G-P, meaning:
+In the first phase, the character can either move or attack.
+In the second, either move or cast a spell.
+third, either attack or cast a spell.
+
+Enemies can affect your phase slots with abilities or debuffs.

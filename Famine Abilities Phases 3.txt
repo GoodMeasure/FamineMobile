@@ -1,15 +1,15 @@
 ------------------------------------------------------------------UNDERSTANDING PHASE 3 ABILITIES--------------------------------------------------------------------
 Elementalist	-	Elements	Enchanter	-	Enchanting	Wizard		-	Wizarding		Psionic		-	Psionic
 1 - Fireball - Damage/Ranged/DoT	1 - Flourish - Damage/Melee		1 - Accelerated Swing - Damage/Interupt		1 - Mind Shock - CC/Ranged/Damage
-2 - Flurry - Conal/Ranged/CC		2 - Spell-Touch - Modal/On-Hit		2 - Spell Spear - Cast/Damage/Ranged		2 - Voices - Modal/DoT/HoT/Ranged
+2 - Ice Gale - Conal/Ranged/CC		2 - Spell-Touch - Modal/On-Hit		2 - Spell Spear - Cast/Damage/Ranged		2 - Voices - Modal/DoT/HoT/Ranged
 3 - Aether Wave - AoE/Damage/Mobility	3 - True Name Recall - Cast/Buff/Dbf	3 - Phase Leap - Mobility/Buff			3 - Predict - Dodge/Riposte
 4 - Soul Beam - Damage/Line/Channel	4 - Aether Blood - Def/Cleanse/CD	4 - Mind Catch - Buff/Shield/Absorb		4 - Mental Mastery - Cleanse/Buff
-5 - Glacial Floe - Mobility/Buff	5 - Rune Trap - AoE/Debuff/Damage	5 - Soul Salvo - Channel/Multi-Target/Damage	5 - Blind - Interupt/Melee/Damage
+5 - Glacial Floe - Mobility/Buff	5 - Rune Trap - AoE/Debuff/Damage	5 - Soul Salvo - Channel/Multi-Target/Damage	5 - Blinding Light - Interupt/Melee/Debuff
 6 - Tendrils of Flame - AoE/CC/Damage	6 - Seal of Fervor - CD/Self-Dmg/Buff	6 - Conflux - No cast time next 3 spells	6 - Feedback - AoE/Debuff/CC
 * - Spell Specialization - bonus dmg	* - Equipment Enchantment - Stats	* - Experiential Warp - Exp/Durations/CDs	* - Attunement - Link to other minds
 
 Neophyte	-	Holy		Medium		-	Clairvoyance	Monk		-		Zen		Acolyte		-	Unholy
-1 - Prayer - Cast/Buff			1 - Familiar Ability			1 - Precise Strike - Flat Damage		1 - Hex - Cast/Debuff
+1 - Prayer - Cast/Buff			1 - Familiar Ability			1 - Zen Strike - Flat Damage		1 - Hex - Cast/Debuff
 2 - Guided Strike - Dmg/Unblockable	2 - Spirit Pulse - AoE/CC/Damage	2 - Quick Palm	- CC/Damage			2 - Chaotic Strike - Damage/Hi-Crit
 3 - Malediction - Debuff/Inc Dmg Taken	3 - Misfortune - Cast/Ranged/Debuff	3 - Silence - Interupt/Silence			3 - Dark Gaze - DoT/Debuff/Interupt
 4 - Blessing - Heal/Variable Range	4 - Planar Tear - Spawns Familiars	4 - Judgement - Execute/Heal			4 - Unholy Power - Buff/Shield
@@ -18,11 +18,19 @@ Neophyte	-	Holy		Medium		-	Clairvoyance	Monk		-		Zen		Acolyte		-	Unholy
 * - Holy Affinity - +dmg/+heals		* - Plane-phasing			* - Meditation System - Offline stat gains	* - Unholy Affinity - +dmg/+debuffs
 
 Druid		-	Druidics	Companion	-	Fauna		Botanist	-	Flora			Shaman		-	Shamanics
-1 - Slash - Damage/DoT			1 - Companion Ability			1 - Coated Blade - DoT/Damage			1 - Grounding Strike - Damage/Slow
+1 - Slash - Damage/DoT			1 - Slash - Dmg/P/Dmg			1 - Coated Blade - DoT/Damage			1 - Grounding Strike - Damage/Slow
 2 - Wild Charge - Mobi/Damage/Interupt	2 - Ride Down - Mobi/Damage/Pet		2 - Pollen Burst - Interupt/Damage/Debuff	2 - Quake - Interupt/Dbf/Slow/Line
 3 - Primal Howl - AoE/Buff		3 - Daunting Howl - AoE/Debuff		3 - Invigorate - Channel/Buff			3 - Ancestral Strength - Buff/Heal/CD
-4 - Trample - Damage/CC			4 - Clip - CC/Damage			4 - Medicate - Heal/Cleanse/Channel		4 - Magmaweave - Cast/Channel/Damage
+4 - Trample - Damage/CC			4 - Go For the Throat - CC/Exec		4 - Medicate - Heal/Cleanse/Channel		4 - Magmaweave - Cast/Channel/Damage
 5 - Flurry - Channel/Dmg		5 - High Tail - Mobi/Dodge/Pet		5 - Thorn Shackles - Damage/CC/Ranged		5 - Gust - Mobility/Damage/Push
 6 - Dire Beast Transform - Buff/Dmg	6 - Tandem Strikes - buff/Pet sync	6 - Plantform - Mobility/Cast Speed/Buff	6 - Upheavel - AoE/Debuff/CC
 * - Shapeshifting - Animal Forms	* - Species Affinity - Pet buff		* - Species Affinity - Consumable Buff		* - Elemental Phases - Ability Buffs
 ------------------------------------------------------------------MASTERY PHASE 3 ABILITIES----------------------------------------------------------------------------
+Brute		-	Brawn		Expert		-	Expertise	Fighter		-	Strength		Scout		-	Agility
+1 - Lumbering Strike - Cast/Damage	1 - Precise Strike - Debuff/Damage	1 - Follow-Up - Damage/After Basic Atk		1 - Loosen-Up - Buff/Channel
+2 - Guard - Block/Def Buff		2 - Disarm - Debuff/Interupt/CC		2 - Finish - Damage/After Follow-Up		2 - Quick Strike - Damage/Interupt
+3 - Constitution - Buff/Tenacity	3 - Quickened Roll - Mobility/Dodge	3 - Lunge - Mobi/CC				3 - Overhead Leap - Dodge/Mobi
+4 - Body Slam - CC/Damage		4 - Sever - Damage/DoT/Slow		4 - Cleave - AoE/Damage				4 - Flurry - Two basic attacks
+5 - Overpower - Int/Damage		5 - Punish - Damage/after struck	5 - Sundering Strike - Debuff			5 - Strafing Shot - Moving shot
+6 - Juggernaut - Line/CC/Damage		6 - Martial Outrage - All abilities	6 - Weapon Throw - Hi Damage/Self Debuff	6 - Focus - +1 Phase slot next 2 turns
+* - Armor Distribution / Weight		* - Strike Placement - Modify blows	* - Nutrition Profile				* - Acrobatic - Traverse dificult terrain

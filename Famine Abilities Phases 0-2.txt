@@ -19,11 +19,11 @@ Magician				Supplicant			Naturalist
 6 - Mind-Shock - Interupt/Melee/Damage  6 - Calm - Cleanse/Buff 	6 - Quake - Interupt/Dbf/Slow/Dmg/AoE
 7 - Familiar - P/A/Damage/Utility	7 - Spirit - P/A/DoT/Buff/Heal	7 - Companion - P/A/Damage/Buff
 
-Cadet					Expert				Vagrant
+Cadet					Scholar				Vagrant
 1 - Destructive Strike - Damage/Debuff	1 - Bash - Damage/Interupt	1 - Swift Strike - Damage/Unblockable
-2 - Disarm - Debuff/Interupt		2 - Throw - Damage/Ranged/CD	2 - Shoot - Damage/Ranged
+2 - Parry - Debuff/Interupt		2 - Throw - Damage/Ranged/CD	2 - Shoot - Damage/Ranged
 3 - Combat Roll - Mobility/Dodge	3 - Gadget - Modal/Shield/Mobi	3 - Quick Roll - Mobility/Cleanse
-4 - Sever - Damage/DoT/Slow		4 - Bola Toss - CC/Debuff	4 - Gash - DoT/CC
+4 - Cripple - DoT/Slow			4 - Bola Toss - CC/Debuff	4 - Gash - DoT/CC
 5 - Resolve - Cleanse/Def/CD		5 - Improvise -  Weapon Buff	5 - Backstab - Damage/Interupt
 6 - Cleave - AoE/Damage/Execute		6 - Acid Vial - DoT/AoE/Dbf/Dmg 6 - Coup de Gras - Execute
 7 - Weapon Specialization - bonus dmg	7 - Profession - Al/Sm/An/Eg	7 - Stealth Mechanics
