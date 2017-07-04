@@ -20,11 +20,7 @@ Enchanting   ENC	Zen	     ZEN	Companions   CMP
 Wizarding    WIZ	Holy	     HLY	Botany       BOT
 Psionics     PSI	Unholy	     UNH	Shamanics    SHM
 ---------		---------		---------		<- From Secondary class, branch into Tertiary class
-
-Training(Cadet)		Crafting(Expert)	Cunning(Vagrant)
-=======
 Training(Cadet)		Crafting(Artisan)	Cunning(Vagrant)
-
 ---------		---------		---------
 Brawn	     BRN	Invention    INV	Precision    PRC
 Expertise    EXP        Armaments    ARM	Stealth      STL
@@ -32,7 +28,7 @@ Might	     MGT	Alchemy      ALC	Deceit       DCT
 Agility	     AGI	Anatomy      ANA        Deadliness   DDL
 
 =========			=========			=========
-Magical				Ethe	real			Natural
+Magical				Ethereal			Natural
 =========			=========			=========
 
 Elements/ELM + :		Clairvoynce/CLV + :		Druidics/DRD + :
@@ -44,13 +40,12 @@ CR/ALC Transmuter  TRMT		CR/ALC Soothsayer  SOOT		CR/ANA Vitruvian   VTRV
 CU/PRC Aether Bow  AEBW		CU/DCT Tormentor   TRMR		CU/DCT Mimic	   MIMC
 
 Enchanting/ENC + : Vig		Zen/ZEN + : Wis			Companions/CMP + : Cun
-=======
+
 EH/ZEN Imbuer	   IMBU 	MG/ENC Imbuer	   IMBU		MG/PSI Beastmaster BTMR
 NA/BOT Rune Mage   RNMG		NA/BOT Imbiber     IMBB		EH/UNH Herald	   HRLD
 TR/BRN Rune Fist   RFST		TR/EXP Samurai     SAMU		TR/MGT Savage	   SAVG
 CR/INV Artificer   ARTF		CR/INV Genius      GNUS		CR/ARM Outfitter   OTFR
 CU/STL Spellblade  SPBL		CU/DDL Death Hand  DTHD		CU/DDL Swarmlord   SWRM
-<<<<<<< HEAD
 	
 Wizarding/WIZ + : Int		Holy/HLY + : Vig		Botany/BOT + : Int
 
@@ -105,111 +100,3 @@ NA/DRD Zephyr	   ZPYR		NA/DRD Vitruvian   VIRV		NA/CMP Swarmlord   SWRM
 CR/INV Aeronaut	   AERO		TR/BRN Abomination ABOM		TR/BRN Executioner EXEC
 CU/STL Shadow      SHDW		CU/DCT Sabateur	   SABA		CR/ALC Posioner    PSNR
 
-=================================================================================================
-
-=========			=========			=========
-Magical - Wis			Ethereal - Wil			Natural - Vig
-=========			=========			=========
-
-Elements/ELM + : Vig		Clairvoynce/CLV + : Int		Druidics/DRD + : Str
-
-EH/CLV Summoner	   SMNR		MG/ELM Summoner    SMNR 	MG/WIZ Animus      ANMS
-NA/SHM Geomancer   GEOM		NA/DRD Divine Host DVHT		EH/CLV Divine Host DVHT
-TR/MGT Battle Mage BTMG		TR/AGI Phaser      PHSR		TR/AGI Zephyr	   ZPYR
-CR/ALC Transmuter  TRMT		CR/ALC Soothsayer  SOOT		CR/ANA Vitruvian   VTRV
-CU/PRC Aether Bow  AEBW		CU/DCT Tormentor   TRMR		CU/DCT Mimic	   MIMC
-
-Enchanting/ENC + : Int		Zen/ZEN + : Wis			Companions/CMP + : Cun
-
-EH/ZEN Imbuer	   IMBU 	MG/ENC Imbuer	   IMBU		MG/PSI Beastmaster BTMR
-NA/BOT Rune Mage   RNMG		NA/BOT Imbiber     IMBB		EH/UNH Herald	   HRLD
-TR/BRN Rune Fist   RFST		TR/EXP Samurai     SAMU		TR/MGT Savage	   SAVG
-CR/INV Artificer   ARTF		CR/INV Genius      GNUS		CR/ARM Outfitter   OTFR
-CU/STL Spellblade  SPBL		CU/DDL Death Hand  DTHD		CU/DDL Swarmlord   SWRM
-	
-Wizarding/WIZ + : Wil		Holy/HLY + : Vig		Botany/BOT + : Int
-=======
-
-Wizarding/WIZ + :		Holy/HLY + :			Botany/BOT + :
->>>>>>> db7160c39a9c8367b4ba41d2f52988a7ee1f1dc6
-
-EH/HLY Ascendant   ASCN		MG/WIZ Ascendant   ASCN		MG/ENC Rune Mage   RNMG
-NA/DRD Animus      ANMS		NA/SHM Meteomancer MTMN 	EH/ZEN Imbiber     IMBB
-TR/AGI ChronomancerCHRN		TR/BRN Pariah	   PRIH		TR/BRN Oakblood    OKBL
-CR/ARM Bladesoul   BLDS		CR/ARM Templar	   TMPL		CR/ALC Renewer     RNWR
-CU/DDL Force Mage  FRMG		CU/PRC Trueshot    TRSH		CU/STL Thornblade  THRN
-
-<<<<<<< HEAD
-Psionics/PSI + : Cun		Unholy/UNH + : Str		Shamanism/SHM + : Wis
-=======
-Psionics/PSI + :		Unholy/UNH + :			Shamanism/SHM + :
->>>>>>> db7160c39a9c8367b4ba41d2f52988a7ee1f1dc6
-
-EH/UNH Devil       DEVL 	MG/PSI Devil	   DEVL		MG/ELM Geomancer   GEOM
-NA/CMP Beastmaster BTMR		NA/CMP Herald	   HRLD		EH/HLY Meteomancer MTMN
-TR/EXP Bladewise   BLWS		TR/MGT Hellspawn   HLSP		TR/EXP Mantis Edge MNEG
-CR/ANA Puppeteer   PPTR		CR/ANA Necromancer NCRM		CR/INV Totemic     TTMC
-CU/DCT Trickster   TRKS		CU/STL Wraith      WRTH		CU/PRC Hawk Eye    HWKE
-
-												<- From Tertiary Classes, select Final/Fusion classes
-=========			=========			=========
-<<<<<<< HEAD
-Training - Str			Crafting - Int			Cunning - Cun
-=========			=========			=========
-
-Brawn/BRN + : Vig		Invention/INV + : Cun		Precision/PRC + :
-=======
-Training			Crafting			Cunning
-=========			=========			=========
-
-Brawn/BRN + :			Invention/INV + :		Precision/PRC + :
->>>>>>> db7160c39a9c8367b4ba41d2f52988a7ee1f1dc6
-
-MG/ENC Rune Fist   RFST		MG/ENC Artificer   ARTF		MG/ELM Aether Bow  AEBW
-EH/HLY Pariah	   PRIH		EH/ZEN Genius	   GNUS		EH/HLY Trueshot	   TRSH
-NA/BOT Oakblood    OKBL		NA/SHM Totemic	   TTMC		NA/SHM Hawk Eye    HWKE
-CR/ANA Abomination ABOM		TR/AGI Aeronaut	   AERO		TR/MGT Barrager	   BRAG
-CU/DDL Brute       BRUT		CU/PRC Ballista    BLST		CR/INV Ballista    BLST  
-
-<<<<<<< HEAD
-Expertise/EXP + : Int		Armaments/ARM + :		Stealth/STL + :
-=======
-Expertise/EXP + :		Armaments/ARM + :		Stealth/STL + :
->>>>>>> db7160c39a9c8367b4ba41d2f52988a7ee1f1dc6
-
-MG/PSI Bladewise   BLDS		MG/WIZ Bladesoul   BLDS		MG/ELM Spellblade  SPBL
-EH/ZEN Samurai	   SAMU		EH/HLY Templar	   TMPL		EH/UNH Wraith	   WRTH
-NA/SHM Mantis Edge MNEG		NA/CMP Outfitter   OTFR		NA/BOT Thornblade  THRN
-CR/ARM Master      MSTR		TR/EXP Master      MSTR		TR/AGI Shadow      SHDW
-CU/DCT Duelist     DLST		CU/STL Operative   OPER		CR/ARM Operative   OPER
-
-<<<<<<< HEAD
-Might/MGT + : Str		Alchemy/ALC + :			Deceit/DCT + :
-
-MG/ELM Battlemage  BTMG		MG/ELM Transmuter  TRMT		MG/PSI Trickster   TRKS
-=======
-Might/MGT + :			Alchemy/ALC + :			Deceit/DCT + :
-
-MG/ELM Spellblade  SPBL		MG/ELM Transmuter  TRMT		MG/PSI Trickster   TRKS
->>>>>>> db7160c39a9c8367b4ba41d2f52988a7ee1f1dc6
-EH/UNH Hellspawn   HLSP		EH/CLV Soothsayer  SOOT		EH/CLV Tormentor   TRMR
-NA/CMP Savage      SAVG		NA/BOT Renewer     RNWR		NA/DRD Mimic       MIMC
-CR/ALC Madman      MDMN		TR/MGT Madman      MDMN		TR/EXP Duelist     DLST
-CU/PRC Barrager    BRAG		CU/DDL Poisoner    PSNR		CR/ANA Sabateur    SABA
-
-<<<<<<< HEAD
-Agility/AGI + :	Cun		Anatomy/ANA + :			Deadliness + :
-=======
-Agility/AGI + :			Anatomy/ANA + :			Deadliness + :
->>>>>>> db7160c39a9c8367b4ba41d2f52988a7ee1f1dc6
-
-MG/WIZ ChronomancerCHRN		MG/PSI Puppeteer   PPTR		MG/WIZ Force Mage  FRMG
-EH/CLV Phaser 	   PHSR		EH/UNH Necromancer NCRM		EH/ZEN Death Hand  DTHD
-NA/DRD Zephyr	   ZPYR		NA/DRD Vitruvian   VIRV		NA/CMP Swarmlord   SWRM
-CR/INV Aeronaut	   AERO		TR/BRN Abomination ABOM		TR/BRN Brute       BRUT
-<<<<<<< HEAD
-CU/STL Shadow      SHDW		CU/DCT Sabateur	   SABA		CR/ALC Posioner    PSNR
-
-=======
-CU/STL Shadow      SHDW		CU/DCT Sabateur	   SABA		CR/ALC Posioner    PSNR
->>>>>>> db7160c39a9c8367b4ba41d2f52988a7ee1f1dc6
