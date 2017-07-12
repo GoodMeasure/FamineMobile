@@ -1,0 +1,21 @@
+X	string[] GenInfo;
+    	Name-Lv-Cls-Ph-Sex-Race	"Sam-12-2-M-E"
+X	int[] StatInfo;
+    	V-S-C-W-I-F		"16-18-12-14-10-12"
+X	int[] CurrencyInfo;	HP-MP-GP-SP-HP		"521-383-103"
+
+X	char[] Actions;
+    	Phase Slot Info		"P-O-G"
+X	string[] AbilityInfo;
+    	Ab1-Ab2-Ab3-Ab4-Ab5-Ab6 "Soul Bolt-Phase Leap"
+
+X	string[] EqpInfo;
+    	"Hd-Nk-Cp-Sl-Tr-Ch"	"Steel helm-Ruby Necklace-Fur Cape"
+X	string[] InvInfo;
+    	"1-2-3-4-5-6-...-11-12"	"Wooden Stake-1L Oil-10GP"
+
+X	string[] lookInfo;	Hair-Eyes-Build-Face	"B-U-L-Docile"
+
+X	bool[] WorldInfo;
+    	"xDisc-yDisc-z-Disc"	"TFTTTFFFFTFFTT"
+	string[] LineageInfo;	"parent-gParent-ggParent"	"Orikk-Zabatchi"
