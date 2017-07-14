@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0358ac7606f64ef4ead71b0da0da6d77
+timeCreated: 1499984227
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Half-Elven Condensed Italic
+  fontNames:
+  - Half-Elven Condensed Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

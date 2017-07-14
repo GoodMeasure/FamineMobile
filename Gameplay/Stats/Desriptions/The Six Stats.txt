@@ -1,0 +1,16 @@
+The Six Stats
+
+The creatures of Famine are each defined by 6 main stats that determine
+their combat capabilities. They are divided into three categories:
+
+Physical Prowess - abilities of the body & hands
+ - Strength - power in leverage and size
+ - Dexterity - coordination and precision of movements
+
+Mental Capacity - abilities of the brain and mind
+ - Intellect - assorted information known, cognition and memory.
+ - Wisdom - general information known, understanding of universe
+
+Spiritual Wellbeing - abilities and health of the heart and spirit
+ - Faith - belief and devotion to one other than themselves, a god or leader
+ - Vigor - belief in ones' self and commitment to act of free will

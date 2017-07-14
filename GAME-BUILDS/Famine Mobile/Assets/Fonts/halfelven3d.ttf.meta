@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4c2de0c8c6dce714a9b120a53fbe8894
+timeCreated: 1499984227
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Half-Elven 3D
+  fontNames:
+  - Half-Elven 3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

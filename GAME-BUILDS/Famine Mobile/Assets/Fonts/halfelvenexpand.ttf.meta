@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ade8eeb99cba4814b9f9355e350d4924
+timeCreated: 1499984228
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Half-Elven Expanded
+  fontNames:
+  - Half-Elven Expanded
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

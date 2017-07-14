@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Famine Mobile", "Famine Mobile.csproj", "{F685BB2B-58AA-A1C3-D5FC-7DB993A13EE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Famine Mobile.Editor", "Famine Mobile.Editor.csproj", "{214EFACF-5603-6AB1-0FA2-FAC8BCEBDA4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F685BB2B-58AA-A1C3-D5FC-7DB993A13EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F685BB2B-58AA-A1C3-D5FC-7DB993A13EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F685BB2B-58AA-A1C3-D5FC-7DB993A13EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F685BB2B-58AA-A1C3-D5FC-7DB993A13EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214EFACF-5603-6AB1-0FA2-FAC8BCEBDA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214EFACF-5603-6AB1-0FA2-FAC8BCEBDA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214EFACF-5603-6AB1-0FA2-FAC8BCEBDA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214EFACF-5603-6AB1-0FA2-FAC8BCEBDA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

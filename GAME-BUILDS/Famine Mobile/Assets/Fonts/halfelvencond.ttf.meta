@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 28a26ddf1cbe1ce4fb563f24a0659f90
+timeCreated: 1499984227
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Half-Elven Condensed
+  fontNames:
+  - Half-Elven Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

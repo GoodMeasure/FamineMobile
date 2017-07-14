@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 02383d5169281544e9b5812cde166186
+timeCreated: 1499984227
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bilbo-hand-Bold
+  fontNames:
+  - Bilbo-hand-Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

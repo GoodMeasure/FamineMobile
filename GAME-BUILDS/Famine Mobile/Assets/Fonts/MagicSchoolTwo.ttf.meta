@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: afab74cc0a5843e469fc7be5cdbfef49
+timeCreated: 1499984228
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Magic School Two
+  fontNames:
+  - Magic School Two
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

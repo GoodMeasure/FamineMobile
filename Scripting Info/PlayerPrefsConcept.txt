@@ -1,4 +1,4 @@
-X	string[] GenInfo;
+	X	string[] GenInfo;
     	Name-Lv-Cls-Ph-Sex-Race	"Sam-12-2-M-E"
 X	int[] StatInfo;
     	V-S-C-W-I-F		"16-18-12-14-10-12"
@@ -19,3 +19,4 @@ X	string[] lookInfo;	Hair-Eyes-Build-Face	"B-U-L-Docile"
 X	bool[] WorldInfo;
     	"xDisc-yDisc-z-Disc"	"TFTTTFFFFTFFTT"
 	string[] LineageInfo;	"parent-gParent-ggParent"	"Orikk-Zabatchi"
+
