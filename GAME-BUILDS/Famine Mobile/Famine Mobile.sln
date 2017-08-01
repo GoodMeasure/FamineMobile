@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Famine Mobile", "Famine Mobile.csproj", "{F685BB2B-58AA-A1C3-D5FC-7DB993A13EE7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Famine Mobile.Editor", "Famine Mobile.Editor.csproj", "{214EFACF-5603-6AB1-0FA2-FAC8BCEBDA4A}"
