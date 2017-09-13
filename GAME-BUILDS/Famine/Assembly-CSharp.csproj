@@ -55,7 +55,9 @@
      <Compile Include="Assets\Scripts\Equipment.cs" />
      <Compile Include="Assets\Scripts\Hex.cs" />
      <Compile Include="Assets\Scripts\Item.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Weapon.cs" />
+     <Compile Include="Assets\Scripts\WorldController.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>C:/Users/Sam Giarratana/Desktop/FamineMobile/GAME-BUILDS/Famine/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
