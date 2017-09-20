@@ -2,22 +2,35 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : Player
 {
     int[] GridPosition;
     GameObject HexA;
     GameObject HexB;
     public string currentHexName;
+    public bool activeUI;
+    public int actions = 2;
 
-    GameObject world;
+    //GameObject world;
     Component worldScript;
     public int longitude;
     public int latitude;
 
     void Start()
     {
-        world = GameObject.Find("WorldController");
+        //world = GameObject.Find("WorldController");
         GridPosition = new int[2] {0, 0};
+    }
+
+    void takeActions()
+    {
+        toggleActionUI();
+
+    }
+
+    void toggleActionUI()
+    {
+        
     }
 
 	void Update ()
